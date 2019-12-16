@@ -5,4 +5,4 @@ Analysis of math and reading scores and passing rates for PyCity Schools.  Inclu
 A Summary of my findings can be found in the Module 4 Challenge Summary File
 
 ## Analysis
-Analysis of the school performance can be found in the PyCitySchool file.  FUrther Analysis of the affect of removing the 9th grade class from Thomas High can be found in the PyCitySchool_Challenge file.
+Analysis of the school performance can be found in the PyCitySchool file.  Further Analysis of the affect of removing the 9th grade class from Thomas High can be found in the PyCitySchool_Challenge file.
