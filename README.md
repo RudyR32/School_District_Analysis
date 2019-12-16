@@ -8,3 +8,6 @@ A Summary of my findings can be found in the Module 4 Challenge Summary File.
 ## Analysis
 Analysis of the school performance can be found in the PyCitySchool file.  Further Analysis of the affect of removing the 9th grade class from Thomas High can be found in the PyCitySchool_Challenge file.
 [SchoolDistrictAnalysis_Challenge](https://github.com/RudyR32/School_District_Analysis/blob/master/PyCitySchools_Challenge.ipynb)
+
+## Addition files
+Additional files that were used in this Analysis can be found [Here](https://github.com/RudyR32/School_District_Analysis)
